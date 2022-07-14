@@ -1,0 +1,6 @@
+C:\Users\27747\Documents\MEGAsync\school\GIP Informatica\GIP\Business\bin\Debug\Business.dll
+C:\Users\27747\Documents\MEGAsync\school\GIP Informatica\GIP\Business\bin\Debug\Business.pdb
+C:\Users\27747\Documents\MEGAsync\school\GIP Informatica\GIP\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\27747\Documents\MEGAsync\school\GIP Informatica\GIP\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\27747\Documents\MEGAsync\school\GIP Informatica\GIP\Business\obj\Debug\Business.dll
+C:\Users\27747\Documents\MEGAsync\school\GIP Informatica\GIP\Business\obj\Debug\Business.pdb
