@@ -7,8 +7,8 @@ It provides a few things:
 - Gives an overview of customers
 - A small (not fully implemented) feature that allows you to add purchases from the store
 
-The project is made in C#, working with Windows Forms
-We store all the data the application needs in a hardcoded MySQL database (yes i know it's hardcoded)
+This project is made in C#, .NET version v4.7.2, working with Windows Forms
+We store all the data the application needs in a MySQL database, the database path is hardcoded (as we were free to choose our database)
 
 The design of the application is set out like this: 
 - A Business package which covers all the business objects, like Customer, Product, etc.
@@ -18,8 +18,6 @@ The design of the application is set out like this:
   - Read
   - Update
   - Insert
-  
-We store all the data the application needs in a hardcoded MySQL database (yes i know it's hardcoded)
 
 This definitly isn't working perfect but be free to have some inspiration by this project
 
