@@ -10,6 +10,17 @@ It provides a few things:
 The project is made in C#, working with Windows Forms
 We store all the data the application needs in a hardcoded MySQL database (yes i know it's hardcoded)
 
+The design of the application is set out like this: 
+- A Business package which covers all the business objects, like Customer, Product, etc.
+- A Presentation package which basically contains all the Windows Forms stuff, for making the GUI
+- A DataAccess package which has classes to interact with the database, taking all CRUD operations into account:
+  - Create
+  - Read
+  - Update
+  - Insert
+  
+We store all the data the application needs in a hardcoded MySQL database (yes i know it's hardcoded)
+
 This definitly isn't working perfect but be free to have some inspiration by this project
 
 ![image](https://user-images.githubusercontent.com/74827262/180030368-f9963d4f-6377-41ce-8f29-4d0804c84af8.png)
